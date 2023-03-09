@@ -1,0 +1,20 @@
+{
+  "title": "Setting Colors in CSS",
+  "overview": "Colors are an essential element of design and development. Here’s the first part of an in-depth series on how to work with colors in CSS.",
+  "date": "2021-04-09T00:00:00.000Z",
+  "body": {
+    "raw": "\n# Defining Colors in CSS: A Deep Dive\n\nWe define colors as a numeric or textual representation of the human visual perception of light — or, a physical object illuminated with it. We can quantify and physically describe human color perception through [_Colorimetry_](https://www.britannica.com/science/colorimetry) — the science of color measurement. It allows us to represent colors in numerical terms and to measure color differences between specimens. If two objects have different [_spectra_](https://en.wikipedia.org/wiki/Spectrum) but produce the same physical sensation, we say they have the same color.\n",
+    "html": "<h1>Defining Colors in CSS: A Deep Dive</h1>\n<p>We define colors as a numeric or textual representation of the human visual perception of light — or, a physical object illuminated with it. We can quantify and physically describe human color perception through <a href=\"https://www.britannica.com/science/colorimetry\"><em>Colorimetry</em></a> — the science of color measurement. It allows us to represent colors in numerical terms and to measure color differences between specimens. If two objects have different <a href=\"https://en.wikipedia.org/wiki/Spectrum\"><em>spectra</em></a> but produce the same physical sensation, we say they have the same color.</p>"
+  },
+  "_id": "setting-colors-in-css.mdx",
+  "_raw": {
+    "sourceFilePath": "setting-colors-in-css.mdx",
+    "sourceFileName": "setting-colors-in-css.mdx",
+    "sourceFileDir": ".",
+    "contentType": "mdx",
+    "flattenedPath": "setting-colors-in-css"
+  },
+  "type": "BlogPost",
+  "url": "/posts/setting-colors-in-css",
+  "slug": "setting-colors-in-css"
+}

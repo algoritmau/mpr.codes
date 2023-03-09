@@ -1,0 +1,20 @@
+{
+  "title": "What’s New in ES2021",
+  "overview": "In this article, we’ll take an introductory look at the most interesting features that ES2021 (or ES12) provides to us.",
+  "date": "2021-04-09T00:00:00.000Z",
+  "body": {
+    "raw": "\n# What’s New in ES2021\n\nES2021 (or ES12) is the ECMAScript version corresponding to the year 2021. This version doesn’t introduce as many new features as those that appeared in ES6, back in 2015. Nonetheless, some valuable features have been included.\n",
+    "html": "<h1>What’s New in ES2021</h1>\n<p>ES2021 (or ES12) is the ECMAScript version corresponding to the year 2021. This version doesn’t introduce as many new features as those that appeared in ES6, back in 2015. Nonetheless, some valuable features have been included.</p>"
+  },
+  "_id": "whats-new-in-es2021.mdx",
+  "_raw": {
+    "sourceFilePath": "whats-new-in-es2021.mdx",
+    "sourceFileName": "whats-new-in-es2021.mdx",
+    "sourceFileDir": ".",
+    "contentType": "mdx",
+    "flattenedPath": "whats-new-in-es2021"
+  },
+  "type": "BlogPost",
+  "url": "/posts/whats-new-in-es2021",
+  "slug": "whats-new-in-es2021"
+}
